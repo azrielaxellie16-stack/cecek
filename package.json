@@ -18,7 +18,7 @@
     "automation"
   ],
   "dependencies": {
-    "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
+    "@whiskeysockets/baileys": "latest",
     "axios": "^1.12.2",
     "jimp": "^0.16.13",
     "pino": "^8.15.1",
